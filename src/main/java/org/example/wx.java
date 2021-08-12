@@ -8,5 +8,6 @@ public class wx {
 
     public static void main(String[] args) {
         System.out.println("新增");
+        System.out.println("1111");
     }
 }
